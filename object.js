@@ -59,8 +59,6 @@ let studenti = ['Michele' , 'Marcello' , 'Davide' , 'Luigi' , 'Gesualdo']
 
 console.log(numbers.sort((a,b) => b - a));
 
-
-
 // let frutta = ['🍌','🍏','🍐','🍓','🍍'];
 
 // let sum = numbers.reduce((tot , el) => {
